@@ -28,12 +28,12 @@ body, html{
   }
   
   .pimg2{
-    background-image:url('../image/2.jpg');
+    background-image:url('../image/2.jpeg');
     min-height:400px;
   }
   
   .pimg3{
-    background-image:url('../image/3.png');
+    background-image:url('../image/3.jpg');
     min-height:400px;
   }
   
